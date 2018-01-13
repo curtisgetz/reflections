@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	.git directory is created. If you did not do this then it would just be a normal 
+	directory without any git information
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is not saved unless you commit it. This allows you to plan your commit and make
+	changed until you're satisfied without affecting anything else
+	
