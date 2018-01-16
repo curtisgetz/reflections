@@ -29,3 +29,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	I probably would have used Google Docs previously. Google Docs would have been easier at that
 	time because I didn't know how to use Git. But it would have been harder to collaborate effectively. 
 	
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+
+	Making changed in separate branches allows you to work on projects with others and only bring it into
+	the master branch when it is complete and ready to be included in the main project. 
+	
+	
