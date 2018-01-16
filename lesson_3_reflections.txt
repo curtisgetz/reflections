@@ -19,3 +19,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	branches are used when you want to take your project in another direction while leaving the main
 	project unaffected. Use this to try our new features
 	
+	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	
+	to help resolve conflicts later.
